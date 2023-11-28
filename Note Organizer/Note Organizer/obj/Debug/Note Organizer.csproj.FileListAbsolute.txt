@@ -1,0 +1,14 @@
+C:\Users\Andrei\source\repos\Note Organizer\Note Organizer\bin\Debug\Note Organizer.exe.config
+C:\Users\Andrei\source\repos\Note Organizer\Note Organizer\bin\Debug\Note Organizer.exe
+C:\Users\Andrei\source\repos\Note Organizer\Note Organizer\bin\Debug\Note Organizer.pdb
+C:\Users\Andrei\source\repos\Note Organizer\Note Organizer\obj\Debug\Note Organizer.csproj.AssemblyReference.cache
+C:\Users\Andrei\source\repos\Note Organizer\Note Organizer\obj\Debug\Note_Organizer.Properties.Resources.resources
+C:\Users\Andrei\source\repos\Note Organizer\Note Organizer\obj\Debug\Note Organizer.csproj.GenerateResource.cache
+C:\Users\Andrei\source\repos\Note Organizer\Note Organizer\obj\Debug\Note Organizer.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\Note Organizer\Note Organizer\obj\Debug\Note Organizer.exe
+C:\Users\Andrei\source\repos\Note Organizer\Note Organizer\obj\Debug\Note Organizer.pdb
+C:\Users\Andrei\source\repos\Note Organizer\Note Organizer\bin\Debug\Note Organizer.exe.manifest
+C:\Users\Andrei\source\repos\Note Organizer\Note Organizer\bin\Debug\Note Organizer.application
+C:\Users\Andrei\source\repos\Note Organizer\Note Organizer\obj\Debug\Note Organizer.exe.manifest
+C:\Users\Andrei\source\repos\Note Organizer\Note Organizer\obj\Debug\Note Organizer.application
+C:\Users\Andrei\source\repos\Note Organizer\Note Organizer\obj\Debug\Note_Organizer.Note.resources
